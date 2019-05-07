@@ -26,3 +26,18 @@ Name: Old Package
 Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 
+Package: com.chewmieser.freefall
+Version: 1
+Section: Tweaks
+Maintainer: ioscheap <ioscheap@icloud.com>
+Depends: firmware (<7.0)
+Architecture: iphoneos-arm
+Filename: ./debs/com.chewmieser.freefall
+Size: 270,266
+MD5sum: 
+Description: This is a sample old package. Firmware should be lower than 7.0
+Name: FreeFall
+Author: ioscheap <ioscheap@icloud.com>
+Depiction: https://ioscheap.github.io/repo/depictions/freefall
+
+
